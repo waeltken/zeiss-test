@@ -1,5 +1,4 @@
 ---
-layout:slide
-title: "Welcome"
-author: patrycjawarkusz
+layout: slide
+title: "Welcome from Patrycja"
 ---
